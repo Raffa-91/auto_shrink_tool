@@ -1,0 +1,9 @@
+{
+    "logging_enabled": true,
+    "advanced_logging": true,
+    "delete_backups": true,
+    "delete_hours": 250,
+    "backup_folders": [
+        "/media/raphi/hdd/backups/raspiHauptDD/raspihaupt"
+    ]
+}
